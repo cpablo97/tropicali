@@ -1,5 +1,9 @@
 body{
     font-family: Roboto;
+<<<<<<< HEAD
     background-color: blue;
+=======
+    background-color: red;
+>>>>>>> 4f2508d (Make background red)
     color: white;
 }
